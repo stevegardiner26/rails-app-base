@@ -1,5 +1,5 @@
 # rails-app-base
-A base rails application to be used to bootstrap and jumpstart application development. 
+A base rails application to be used to bootstrap and jumpstart application development. Already has full authentication and basic views setup.
 
 1. Fork the repository.
 1. Edit the `database.yml` file to provide the correct database name.
